@@ -2,9 +2,9 @@
 <addon id="repository.g3rb3n" version="1.0.3" name="g3rb3n repository" provider-name="g3rb3n">
 	<extension point="xbmc.addon.repository" name="g3rb3n repository">
 		<dir minversion="20.0.0">
-			<info compressed="false">https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/master/nexus/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/master/nexus/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/master/nexus/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/main/nexus/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/main/nexus/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/g3rb3n/repository.g3rb3n/main/nexus/</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
